@@ -138,7 +138,7 @@ $(document).ready(function() {
                     maintainAspectRatio: false,
                     title: {
                         display: true,
-                        text: 'Deaths History for the Past Month'
+                        text: 'Death History for the Past Month'
                     },
                     legend:
                     {
